@@ -19,3 +19,9 @@ for i in range(11):
  ```
  
 ![srit](https://user-images.githubusercontent.com/20875420/47642094-c5c9ab80-db8d-11e8-86f4-b5361d8991c3.jpg)
+
+
+ |   Name     |   section    | Marks |
+ | ------------- |:-----------:  | ----------:|
+ |   Rahul   |   cse   | 98   |
+ |   Shaik    | ece | 92 |
